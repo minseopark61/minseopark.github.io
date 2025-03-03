@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://minseopark.github.io/sitemap.xml
+Sitemap: https://minseopark61.github.io/minseopark.github.io/sitemap.xml
